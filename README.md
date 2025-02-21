@@ -15,8 +15,8 @@ A repository for learning Python with Django by building a web application that 
 
 ## **Tech Stack**
 - **Backend**: Python (Django framework)
-- **Frontend**: HTML, CSS, JavaScript
-- **Database**: MySQL
+- **Frontend**: HTML, CSS, JavaScript (Bootstrap framework)
+- **Database**: MySQL database
 - **Environment Management**: Virtual environment (`venv`)
 
 ---
